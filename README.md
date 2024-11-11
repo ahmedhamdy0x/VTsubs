@@ -81,7 +81,7 @@ source $HOME/.cargo/env
    sudo cp target/release/VTsubs /usr/local/bin/
    ```
    
-5. **Make subExtreme Executable**:
+5. **Make VTsubs Executable**:
 
    Ensure that the tool is executable:
 
